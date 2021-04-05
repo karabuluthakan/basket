@@ -1,0 +1,39 @@
+{
+  "Items": [
+    {
+      "Key": "CannotGreaterThanTheStock",
+      "Value": {
+        "tr": "Stok miktarından büyük olamaz",
+        "en": "Cannot be greater than the stock quantity"
+      }
+    },
+    {
+      "Key": "SuccessfullyAdded",
+      "Value": {
+        "tr": "Başarıyla Eklendi",
+        "en": "Successfully Added"
+      }
+    },
+    {
+      "Key": "NotAdded",
+      "Value": {
+        "tr": "Eklenemedi",
+        "en": "Not Added"
+      }
+    },
+    {
+      "Key": "SuccessfullyDeleted",
+      "Value": {
+        "tr": "Başarıyla Silindi",
+        "en": "Successfully Deleted"
+      }
+    },
+    {
+      "Key": "NotDeleted",
+      "Value": {
+        "tr": "Silinemedi",
+        "en": "Not Deleted"
+      }
+    }
+  ]
+}
